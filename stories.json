@@ -1,0 +1,22 @@
+{ "stories": [{
+  "author": "Garret",
+  "title": "The Big Earth Quake",
+  "image": "https://i.ytimg.com/vi/8HKx8b_yc50/hqdefault.jpg",
+  "story": "A big earth quake"
+}, {
+  "author": "Matt",
+  "title": "World Series Stuff",
+  "image": "http://i.imgur.com/eqdhbus.jpg",
+  "story": "The Indians are going to win"
+}, {
+  "author": "Nikola Tesla",
+  "title": "Was Tesla in Love With a Pigeon?",
+  "image": "http://pictures.ozy.com/pictures/450xany/0/9/5/34095_447px-Tesla_circa_1890.jpeg",
+  "story": "As Tesla aged he withdrew from normal society, instead opting to focus on the daily feeding of local pigeons."
+}, {
+  "author": "Thomas Jefferson",
+  "title": "Is Freedom Free?",
+  "image": "https://forum.kingdomcomerpg.com/uploads/default/10607/d683f3bc4beb9e4a.jpg",
+  "story": "Freedom isn't free"
+  }]
+}

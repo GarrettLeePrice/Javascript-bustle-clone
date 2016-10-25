@@ -1,0 +1,11 @@
+<h1>This is a bustle clone</h1>
+
+<ul>
+  {{#each model as |story|}}
+    {{admin-tile story=story update="update"  destroyStory="destroyStory"}}
+  {{/each}}
+</ul>
+
+{{new-story saveStory2="saveStory3"}}
+
+{{#link-to 'admin-portal'}}See Admin Portal{{/link-to}}

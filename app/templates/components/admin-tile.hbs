@@ -1,0 +1,5 @@
+<li>
+  {{#link-to 'story' story.id}}{{story.author}}'s story "{{story.title}}"{{/link-to}}
+  {{update-story story=story update="update"}}
+<button {{action 'delete' story}}>Delete Story</button>
+</li>

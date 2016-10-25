@@ -1,0 +1,9 @@
+<h1>This is a bustle clone</h1>
+
+<div class="row blocks {{story.title}}{{story.id}}">
+  {{#each model as |story|}}
+    {{story-tile story=story}}
+  {{/each}}
+</div>
+
+{{#link-to 'admin-portal'}}See Admin Portal{{/link-to}}
